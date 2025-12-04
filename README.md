@@ -1,4 +1,4 @@
-# CoST: Cost-aware Trajectory Compression
+# CoST: Efficient and Error-Bounded Compression of Streaming Trajectories
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
