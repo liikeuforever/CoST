@@ -80,8 +80,7 @@ CoST/
 ./run_ablation.sh
 
 # Overall Comparison (~15-30 minutes, requires main Serf project)
-# Run from main Serf project root:
-# cd /path/to/Serf && ./CoST/run_overall.sh
+./run_overall.sh
 ```
 
 ### Manual Run
@@ -109,8 +108,6 @@ Compares CoST with TrajCompress-SP, Serf-QT, and single-predictor variants.
 #### Comprehensive Comparison (Section 5.4)
 
 ```bash
-# Run from main Serf project root (not from CoST subdirectory)
-cd /path/to/Serf
 ./CoST/run_overall.sh
 ```
 
@@ -121,7 +118,7 @@ Compares CoST with 20 baseline algorithms across 5 categories.
 ## Algorithm Overview
 
 CoST employs three predictors:
-- **LDR** (Linear Dead Reckoning): For constant velocity motion
+- **LP** (Linear DPredictor): For constant velocity motion
 - **CP** (Curve Predictor): For acceleration and turning
 - **ZP** (Zero Predictor): For stationary motion
 
@@ -140,12 +137,7 @@ Each includes downsampled versions (5x, 10x, 20x, 40x) for sensitivity analysis.
 ## Citation
 
 ```bibtex
-@inproceedings{cost2024,
-  title={CoST: Cost-aware Trajectory Compression with Adaptive Predictor Selection},
-  author={Author Names},
-  booktitle={Proceedings of IEEE Conference},
-  year={2024}
-}
+todo
 ```
 
 ## License
