@@ -1,0 +1,7 @@
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/sz.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/edit_cache.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/rebuild_cache.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/list_install_components.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/install.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/install/local.dir
+/Users/xuzihang/GitProject/GG/Serf/CoST/baselines/sz2/sz/build/CMakeFiles/install/strip.dir
