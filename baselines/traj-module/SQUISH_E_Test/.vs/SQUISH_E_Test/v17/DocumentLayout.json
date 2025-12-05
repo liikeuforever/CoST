@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5927\u56DB\\\u6BD5\u8BBE\\\u63D0\u4EA4\\TestOthers\\SQUISH_E_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B06B2A-A578-4783-B7B6-56347049EDF4}|SQUISH_E_Test\\SQUISH_E_Test.vcxproj|E:\\\u5927\u56DB\\\u6BD5\u8BBE\\\u63D0\u4EA4\\TestOthers\\SQUISH_E_Test\\SQUISH_E_Test\\SQUISH_E_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41B06B2A-A578-4783-B7B6-56347049EDF4}|SQUISH_E_Test\\SQUISH_E_Test.vcxproj|solutionrelative:SQUISH_E_Test\\SQUISH_E_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQUISH_E_Test.cpp",
+              "DocumentMoniker": "E:\\\u5927\u56DB\\\u6BD5\u8BBE\\\u63D0\u4EA4\\TestOthers\\SQUISH_E_Test\\SQUISH_E_Test\\SQUISH_E_Test.cpp",
+              "RelativeDocumentMoniker": "SQUISH_E_Test\\SQUISH_E_Test.cpp",
+              "ToolTip": "E:\\\u5927\u56DB\\\u6BD5\u8BBE\\\u63D0\u4EA4\\TestOthers\\SQUISH_E_Test\\SQUISH_E_Test\\SQUISH_E_Test.cpp",
+              "RelativeToolTip": "SQUISH_E_Test\\SQUISH_E_Test.cpp",
+              "ViewState": "AQIAALgBAAAAAAAAAAAYwI0CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T13:56:37.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

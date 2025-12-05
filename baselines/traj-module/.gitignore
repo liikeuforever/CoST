@@ -1,0 +1,64 @@
+# Build outputs
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Visual Studio files
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exe.recipe
+
+# Test outputs
+test_output.txt
+test_results/*.txt
+test_results/*.csv
+test_results/charts/*.png
+test_results/charts/*.pdf
+!test_results/.gitkeep
+
+# Log files
+*.log
+test_run*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+

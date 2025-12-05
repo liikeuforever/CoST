@@ -1,0 +1,78 @@
+# Build outputs
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!**/CMakeLists.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+x64/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exe.recipe
+*.log
+
+# Test outputs
+test_output.txt
+test_results/
+*.csv
+!data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Experiment results (keep structure but ignore large outputs)
+experiments/*/comprehensive_perf_results_*.csv
+!experiments/*/comprehensive_perf_config.hpp
+
